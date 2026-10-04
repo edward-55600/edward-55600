@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**edward-55600/edward-55600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>🌙 edward-55600 🌙</h1>
+  <p><strong>Software Developer | Automation & Open Source Enthusiast</strong></p>
 
-Here are some ideas to get you started:
+  <!-- Trophy / Statue Showcase -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=edward-55600&theme=tokyonight&column=6&no-frame=true" alt="edward-55600 Statues" />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 💻 System Overview
+
+```yaml
+User: edward-55600
+Status: 🟢 Active & Building
+Focus: Python, Web Automation, & Full-Stack Development
+Philosophy: "Automation turns repetitive tasks into solved problems."
